@@ -1,4 +1,4 @@
-### Hi there 👋 This is DrOreilleNehCINQ, aka Henry YIP
+### Hi there 👋 This is DrOreilleNehCINQ , aka Henry YIP
 
 
 - 🔭 I’m currently working on [My Personal Website](https://henry-yip.github.io/) 
