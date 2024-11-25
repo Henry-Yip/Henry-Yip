@@ -3,4 +3,4 @@
 
 - 🔭 If you want to know anything about me, just click on [My Personal Website](https://henry-yip.github.io/) 
 - 📫 How to reach me: s2231321@ed.ac.uk / henry36c@gmail.com
-- ⚡ Fun fact: I am studying Mathematical Physics at the University of Edinburgh! 
+- ⚡ Fun fact: I am studying Mathematical Physics at the University of Edinburgh! I am particularly interested in dynamical systems and statistical physics.
